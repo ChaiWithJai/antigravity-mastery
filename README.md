@@ -201,14 +201,14 @@ antigravity-mastery/
 - Custom workflows for your use cases
 - Production setup review
 
-**[Book a session](mailto:jai@pm-ai-lab.com)**
+**[Book a session](mailto:jai@chaiwithjai.com)**
 
 ### Team Licenses
 - Custom rules for your tech stack
 - Shared workflow library
 - Champions training
 
-**[Inquire about team adoption](mailto:jai@pm-ai-lab.com)**
+**[Inquire about team adoption](mailto:jai@chaiwithjai.com)**
 
 ---
 
@@ -218,7 +218,7 @@ antigravity-mastery/
 2. **[Begin Segment 0](./segments/00-cold-open.md)** - See the transformation in action
 3. **Complete all 5 exercises** - Build your own setup
 
-Questions? [jai@pm-ai-lab.com](mailto:jai@pm-ai-lab.com)
+Questions? [jai@pm-ai-lab.com](mailto:jai@chaiwithjai.com)
 
 ---
 
