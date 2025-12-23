@@ -218,7 +218,7 @@ antigravity-mastery/
 2. **[Begin Segment 0](./segments/00-cold-open.md)** - See the transformation in action
 3. **Complete all 5 exercises** - Build your own setup
 
-Questions? [jai@pm-ai-lab.com](mailto:jai@chaiwithjai.com)
+Questions? [jai@chaiwithjai.com](mailto:jai@chaiwithjai.com)
 
 ---
 
